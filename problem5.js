@@ -12,7 +12,7 @@ function findDivisor(){
         findDivisor();
     } 
     else {
-    console.log(`${divisor} is the Greatest Common Denominator`);
+    console.log(`${divisor} is the Greatest Common Divisor`);
     }     
 }
 findDivisor();
